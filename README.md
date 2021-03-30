@@ -1,5 +1,5 @@
 # Node-mysql-db
-Establish databse connection using node js and mysql using xamp server
+Establish database connection using node js and mysql using xamp server
 
 
 1.Install node js
